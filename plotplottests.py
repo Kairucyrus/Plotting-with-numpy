@@ -11,3 +11,6 @@ x= np.linspace(-10,10,100)
 y= np.sin(x)
 plot=plt.plot(x,y)
 plot.show()
+  
+  
+  
